@@ -2,6 +2,7 @@ package comunicacion;
 
 public class Alfabeto extends Pictograma{
     private String[] letras;
+
     private String interpretacion;
 
     public Alfabeto(String origen, String[] letras, String interpretacion) {
